@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Some nebula photo](https://github.com/kamilmateusiak/kamilmateusiak/blob/main/nebula.png)
+![Some nebula photo](https://github.com/kamilmateusiak/kamilmateusiak/blob/main/nebula.jpg)
 
 Hello. I am a web (and recently mobile) developer who is very passionate about learning programming skills and building awesome apps. I am mostly skilled in frontend development but I have some serious, commercial experience in making backend side of apps (especially in NodeJS). I am a huge fan of React ecosystem and the whole open source concept. 
 
